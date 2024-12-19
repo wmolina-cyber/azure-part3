@@ -99,3 +99,11 @@ In Part 3 of this lab, I configured a Network Security Group (NSG) to control IC
 
 ---
 
+## Part 3 Conclusion
+In Part 3 of this lab, I configured a Network Security Group to test ICMP traffic, observed SSH and DHCP traffic, analyzed DNS queries, and explored RDP traffic using Wireshark. These activities deepened my understanding of network protocols and Azure resource management. Finally, I cleaned up the lab by closing the Remote Desktop connection and deleting the Resource Groups.
+
+---
+
+## Lab Conclusion
+Over the course of this lab, I created and connected Azure Virtual Machines within a shared virtual network, analyzed ICMP, SSH, DHCP, DNS, and RDP traffic using Wireshark, and configured a Network Security Group to control traffic. These tasks provided hands-on experience with virtual networking, protocol analysis, and Azure resource management, strengthening my understanding of cloud-based infrastructure and network communication.
+
